@@ -1,2 +1,6 @@
 .idea/
+.git/
+.gitignore
+LICENSE
+README.md
 mpbridge.ignore
